@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "geometr_figur", "geometr_figur\geometr_figur.csproj", "{CC20E855-CC3A-4FF6-9739-341389D6F788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "podgotovka", "podgotovka\podgotovka.csproj", "{B3EEBE36-2461-4CD8-9D5C-4A117B455599}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "paint", "paint\paint.csproj", "{938F38A1-7E91-4DFE-BD3A-4786E3E9AF0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC20E855-CC3A-4FF6-9739-341389D6F788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC20E855-CC3A-4FF6-9739-341389D6F788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC20E855-CC3A-4FF6-9739-341389D6F788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC20E855-CC3A-4FF6-9739-341389D6F788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3EEBE36-2461-4CD8-9D5C-4A117B455599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3EEBE36-2461-4CD8-9D5C-4A117B455599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3EEBE36-2461-4CD8-9D5C-4A117B455599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3EEBE36-2461-4CD8-9D5C-4A117B455599}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938F38A1-7E91-4DFE-BD3A-4786E3E9AF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938F38A1-7E91-4DFE-BD3A-4786E3E9AF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938F38A1-7E91-4DFE-BD3A-4786E3E9AF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938F38A1-7E91-4DFE-BD3A-4786E3E9AF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3DDDA4A5-70AC-46A2-81FD-763CCCD35EE4}
+	EndGlobalSection
+EndGlobal
